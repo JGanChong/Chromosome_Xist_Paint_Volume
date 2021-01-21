@@ -1,4 +1,4 @@
-/*  Segments and measures volume of chromosome/protein paints based on user settings
+/*  Segment and calculate the volumes of paints in 3D from Channels 1 and 2. Output result table and projected image with ROI to verify segmentation.
  *  
  * Macro Instructions:
  * Set desired settings and run.
