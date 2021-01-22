@@ -1,7 +1,7 @@
 /*  Segment and calculate the volumes of paints in 3D from Channels 1 and 2. Output result table and projected image with ROI to verify segmentation.
  *  
  * Macro Instructions:
- * Set desired settings and run.
+ * Set all input files in a folder. Set desired settings and run macro.
  *  
  * Macro tested with ImageJ 1.53g, Java 1.8.0_172 (64bit) Windows 10
  * Macro by Johnny Gan Chong email:behappyftw@g.ucla.edu 
